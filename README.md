@@ -2,6 +2,8 @@
 
 A simple script that let's you switch kitty tabs with fzf. Even with previews!
 
+![output](https://github.com/user-attachments/assets/57a07f4c-4827-4df2-ad8e-ab9e427c1dce)
+
 ## Installation
 
 1. Clone this repository with e. g.:
