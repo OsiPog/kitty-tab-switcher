@@ -8,6 +8,12 @@ Inspiration: https://github.com/kovidgoyal/kitty-fosshack2024/issues/1
 
 ## Installation
 
+**Dependencies:**
+- kitty (duh!)
+- jq
+- fzf
+
+
 1. Clone this repository with e. g.:
 
 ```
